@@ -1,8 +1,7 @@
 # Bristol-Stools
 Footstools with images of Bristol on them
-# funicular
 
-git clone https://github.com/mmw111161/funicular.git
+git clone https://github.com/mmw111161/Bristol-Stools.git
 python3 -m venv .venv
 source .venv/bin/activate
 pip install wagtail
